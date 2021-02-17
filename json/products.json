@@ -1,0 +1,12 @@
+[
+	{"title": "좋은상품", "src": "../img/best1.jpg", "price": "15.00"},
+	{"title": "나쁜상품", "src": "../img/best2.jpg", "price": "18.00"},
+	{"title": "비싼상품", "src": "../img/best3.jpg", "price": "177.00"},
+	{"title": "좋은상품", "src": "../img/best4.jpg", "price": "11.00"},
+	{"title": "비싼상품", "src": "../img/best5.jpg", "price": "156.00"},
+	{"title": "나쁜상품", "src": "../img/best6.jpg", "price": "15.00"},
+	{"title": "좋은상품", "src": "../img/best7.jpg", "price": "14.00"},
+	{"title": "비싼상품", "src": "../img/best8.jpg", "price": "199.00"},
+	{"title": "비싼상품", "src": "../img/best9.jpg", "price": "180.00"},
+	{"title": "나쁜상품", "src": "../img/best10.jpg", "price": "12.00"}
+]
